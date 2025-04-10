@@ -1,5 +1,4 @@
-Networking Code Examples
-
+![Project Demo](chatAppsUsingTcpOrUdp.gif)
   
 
 This repository contains a collection of networking code examples implemented in Java. Each subdirectory represents a specific networking concept or application. Below, you will find a brief description of each subdirectory along with its contents.
